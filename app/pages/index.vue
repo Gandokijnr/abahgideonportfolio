@@ -10,9 +10,13 @@
 
 <script setup>
 useHead({
-  title: 'Portfolio - Full Stack Developer',
+  title: "Abah Gideon",
+  link: [{ rel: "icon", type: "image/svg+xml", href: "/favicon.svg" }],
   meta: [
-    { name: 'description', content: 'Full Stack Developer & Digital Marketer Portfolio' }
-  ]
-})
+    {
+      name: "description",
+      content: "Full Stack Developer & Digital Marketing Expert",
+    },
+  ],
+});
 </script>
