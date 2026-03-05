@@ -18,17 +18,40 @@
           <p
             class="text-muted-foreground leading-relaxed text-base sm:text-[1.05rem] mb-4"
           >
-            I'm a passionate full-stack developer and digital marketer who
-            thrives at the intersection of technology and business growth. I
-            craft scalable web applications with modern technologies while
-            leveraging SEO, paid ads, and content strategies to maximize reach.
+            I build digital systems that help businesses scale, automate, and
+            generate measurable revenue.
           </p>
           <p
             class="text-muted-foreground leading-relaxed text-base sm:text-[1.05rem]"
           >
-            Whether it's architecting a robust backend, designing intuitive user
-            interfaces, or running multi-channel campaigns — I bring a holistic
-            approach to every project.
+            As the Founder of Strativa Web Services, I partner with startups,
+            growing brands, and entrepreneurs to design high-performing
+            websites, scalable software solutions, and growth-driven marketing
+            systems focused on real business impact.
+          </p>
+          <p
+            class="text-muted-foreground leading-relaxed text-base sm:text-[1.05rem] mt-4"
+          >
+            With a background in frontend engineering and product-focused
+            development, I build clean, conversion-optimized experiences using
+            Vue.js, Nuxt, WordPress, and backend tools like Supabase. I also
+            create custom dashboards, internal tools, and workflows that help
+            teams operate smarter and make data-driven decisions.
+          </p>
+          <ul
+            class="mt-6 space-y-2 text-muted-foreground text-base sm:text-[1.05rem]"
+          >
+            <li>Web Development (Vue.js, Nuxt, WordPress)</li>
+            <li>Custom Software &amp; Admin Dashboards</li>
+            <li>SEO &amp; Conversion Optimization</li>
+            <li>Digital Growth &amp; Automation Systems</li>
+            <li>Performance &amp; Scalability Optimization</li>
+          </ul>
+          <p
+            class="text-muted-foreground leading-relaxed text-base sm:text-[1.05rem] mt-6"
+          >
+            If you're building something bold and need a technical partner who
+            understands product and growth, let's connect.
           </p>
         </div>
 
