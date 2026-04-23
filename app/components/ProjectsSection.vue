@@ -115,7 +115,7 @@ const features = [
     meta: "Multi-branch grocery commerce • SSR • PWA",
     description:
       "A multi-branch grocery commerce platform with delivery and pickup flows, Paystack payments, pay-on-delivery controls, and dedicated admin + driver workflows.",
-    liveUrl: "https://homeaffairs.netlify.app",
+    liveUrl: "https://homeaffairs.vercel.app",
     problem:
       "Grocery operations across multiple branches break down without a unified system for inventory-aware shopping, fulfillment coordination, and real-time dispatch.",
     who: "Customers ordering groceries, store staff processing orders, branch managers overseeing operations, and drivers fulfilling deliveries.",
